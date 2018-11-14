@@ -17,7 +17,7 @@ class App extends Component {
             target="_blank"
             rel="noopener noreferrer"
           >
-            fucke React
+            REMOTE FUCKER
           </a>
         </header>
       </div>
